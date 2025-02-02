@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineer<br>I am interested in building Web, Cloud and Mobile Applications<br><br> 
+Software Engineer<br>Interests: Web, Cloud and Mobile Applications<br><br> 
 
 
 # 💻 Tech Stack:
