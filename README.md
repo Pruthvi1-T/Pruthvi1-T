@@ -1,7 +1,7 @@
 # 💫 About Me:
 Software Engineer<br>
-Perpetual student of programming  
-Focused on fundamentals
+Perpetual student of programming   
+Focused on fundamentals <br>
 Learning one abstraction at a time.
 
 <br>Interests: Distributed Systems, Cloud, React, AI agents and Web.<br><br> 
