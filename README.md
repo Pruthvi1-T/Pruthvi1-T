@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer
+Software Engineer<br>
 Perpetual student of programming  
 Focused on fundamentals
 Learning one abstraction at a time.
