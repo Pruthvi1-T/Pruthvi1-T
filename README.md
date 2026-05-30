@@ -9,7 +9,7 @@ Perpetual student of programming — focused on fundamentals and learning one ab
 - ☁️ Scaling infrastructure via **Cloud & Databases**
 
 ### 🌱 Open Source Aspirations:
-I am currently transitioning into the open-source ecosystem. I am looking to contribute my professional expertise in **TypeScript/React** and **Distributed Systems** to impactful public projects. 
+I am currently transitioning into the open-source ecosystem. I am looking to contribute my professional expertise in **Core Backend Systems** and **Distributed Systems** to impactful public projects. 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pruthvi1-T&icon=0&color=0)](https://visitcount.itsvg.in)
